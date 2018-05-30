@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1527625287,
+	"version": 1527683863,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -86,6 +86,8 @@
 		"images/sprite11-sheet0.png",
 		"media/apito.ogg",
 		"media/renegade_jubilee.ogg",
+		"media/errou-gol.2ogg.ogg",
+		"media/torcida02.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

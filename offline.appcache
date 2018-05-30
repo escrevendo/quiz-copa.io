@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1527625287
+#1527683863
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -85,6 +85,8 @@ images/sprite10-sheet0.png
 images/sprite11-sheet0.png
 media/apito.ogg
 media/renegade_jubilee.ogg
+media/errou-gol.2ogg.ogg
+media/torcida02.ogg
 icon-16.png
 icon-32.png
 icon-114.png
